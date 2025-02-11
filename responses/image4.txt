@@ -1,1 +1,0 @@
-{"request_id":"1969E2D9-21E1-4E67-B192-1F1EBEF9F69F","result":[{"general_text":[{"content":"Jiangsu3206910000386","prob":0.98}],"roi":{"height":768,"left":647,"top":159,"width":749},"text":{"content":"江苏苏精密机械有限公司","prob":1.0}}],"success":true}

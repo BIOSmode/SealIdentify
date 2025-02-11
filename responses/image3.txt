@@ -1,1 +1,0 @@
-{"request_id":"97187BF8-B3E4-406A-B855-1C72C93095F4","result":[{"general_text":[{"content":"3205060955789","prob":0.98}],"roi":{"height":578,"left":249,"top":988,"width":578},"text":{"content":"苏州一福菱机械科技有限公司","prob":1.0}}],"success":true}

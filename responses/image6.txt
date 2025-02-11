@@ -1,1 +1,0 @@
-{"request_id":"FB1FCA3A-5641-412B-A86B-B8240C0CC086","result":[{"general_text":[{"content":"4101000130114","prob":1.0}],"roi":{"height":844,"left":774,"top":122,"width":901},"text":{"content":"郑州新世纪数码科技股份有限公司","prob":0.99}}],"success":true}

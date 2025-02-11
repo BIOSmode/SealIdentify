@@ -1,1 +1,0 @@
-{"request_id":"313DF27B-F820-421E-A512-D16A39573B88","result":[{"general_text":[{"content":"ZHETNG KENT MACHIN CO.,LTD3301090201970","prob":0.99}],"roi":{"height":552,"left":536,"top":147,"width":552},"text":{"content":"太电京德机械限公","prob":0.95}}],"success":true}
