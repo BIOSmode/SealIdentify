@@ -1,0 +1,1 @@
+{"request_id":"56020892-0E56-4F1C-BE99-F582C0A61BEF","result":[{"general_text":[{"content":"3201163037360","prob":1.0}],"roi":{"height":266,"left":672,"top":670,"width":273},"text":{"content":"南京新浙数控机床有限公司","prob":1.0}}],"success":true}

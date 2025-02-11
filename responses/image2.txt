@@ -1,0 +1,1 @@
+{"request_id":"CE65ECE0-6AF0-48A4-AFF0-0C140886FA97","result":[{"general_text":[{"content":"江社(苏州)股份有限","prob":0.83}],"roi":{"height":661,"left":341,"top":913,"width":669},"text":{"content":"纽威数控装器贵苏州)股份有","prob":0.94}}],"success":true}
